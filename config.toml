@@ -4,7 +4,6 @@ languageCode = "en-gb"
 theme = "ananke-old"
 publishDir = "docs"
 
-
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
