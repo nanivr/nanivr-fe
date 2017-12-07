@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nanivr</title>
+    <link>https://nanivr.github.io/</link>
+    <description>Recent content on nanivr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://nanivr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get notified</title>
+      <link>https://nanivr.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nanivr.github.io/contact/</guid>
+      <description>Got interested in nanivr? Nice. Leave us your email and we&amp;rsquo;ll keep you posted about nanivr progress (we don&amp;rsquo;t spam, promise 🤞).
+Also by registering now you&amp;rsquo;ll have a chance to enter our closed beta programme once ready.
+Your Name Email Address An email address is required.   </description>
+    </item>
+    
+  </channel>
+</rss>
